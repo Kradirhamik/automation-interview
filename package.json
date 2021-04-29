@@ -1,0 +1,12 @@
+{
+	"name": "automation-interview",
+	"description": "Automation interview project",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"author": "Ivo Cunha",
+	"repository": "https://github.com/Kradirhamik/automation-interview",
+	"devDependencies": {
+		"puppeteer": "^6.0.0"
+	}
+}
